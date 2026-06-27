@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+ECE+%40+IIIT+Tiruchirappalli+%7C+2025;Full+Stack+MERN+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;ML+%26+Deep+Learning+Engineer+%7C+PyTorch+%C2%B7+TensorFlow;Agentic+AI+Builder+%7C+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI;Deploying+Scalable+Software+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+ECE+%40+IIIT+Tiruchirappalli+%7C+2027;Full+Stack+MERN+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;ML+%26+Deep+Learning+Engineer+%7C+PyTorch+%C2%B7+TensorFlow;Agentic+AI+Builder+%7C+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI;Deploying+Scalable+Software+%26+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views + Social Badges -->
