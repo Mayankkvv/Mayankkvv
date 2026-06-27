@@ -22,9 +22,6 @@
     <img src="https://img.shields.io/badge/GitHub-Mayankkvv-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/mayank_k0309">
-    <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating"/>
-  </a>
 </p>
 
 <br/>
