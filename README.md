@@ -120,10 +120,12 @@ I bridge the gap between intelligent algorithms and modern software — building
 <br/>
 
 <p align="center">
-  <b>⭐ CodeChef — mayank_k0309</b>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mayank_k0309">
-    <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating"/>
+    <img src="https://img.shields.io/badge/CodeChef-mayank__k0309-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rating-1518-FFA116?style=for-the-badge&logo=codechef&logoColor=white"/>
+  &nbsp;
 </p>
 
 ---
