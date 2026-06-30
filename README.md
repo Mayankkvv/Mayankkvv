@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://github.com/Mayankkvv">
+    <img src="https://img.shields.io/badge/GitHub-Mayankkvv-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://leetcode.com/M_a_y_a_n_k_3/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
@@ -131,9 +135,10 @@ I bridge the gap between intelligent algorithms and modern software — building
 </p>
 
 <p align="center">
-  <b>🟢 GeeksforGeeks — mayankkute9q</b>&nbsp;&nbsp;
+  <b>🟢 GeeksforGeeks — mayankkute9q</b>
+  <br/><br/>
   <a href="https://www.geeksforgeeks.org/user/mayankkute9q/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-mayankkute9q-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://gfgstatscard.vercel.app/mayankkute9q" alt="GeeksforGeeks Stats"/>
   </a>
 </p>
 
