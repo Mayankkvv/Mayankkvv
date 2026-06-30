@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+ECE+%40+IIIT+Tiruchirappalli+%7C+2027;Full+Stack+MERN+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;ML+%26+Deep+Learning+Engineer+%7C+PyTorch+%C2%B7+TensorFlow;Agentic+AI+Builder+%7C+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI;Deploying+Scalable+Software+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+ECE+%40+IIIT+Tiruchirappalli+%7C+2025;Full+Stack+MERN+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+MongoDB;ML+%26+Deep+Learning+Engineer+%7C+PyTorch+%C2%B7+TensorFlow;Agentic+AI+Builder+%7C+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI;Deploying+Scalable+Software+%26+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views + Social Badges -->
@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://github.com/Mayankkvv">
+    <img src="https://img.shields.io/badge/GitHub-Mayankkvv-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://leetcode.com/M_a_y_a_n_k_3/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
@@ -28,6 +32,10 @@
   &nbsp;
   <a href="https://www.codechef.com/users/mayank_k0309">
     <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/mayankkute9q/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
@@ -120,12 +128,17 @@ I bridge the gap between intelligent algorithms and modern software — building
 <br/>
 
 <p align="center">
+  <b>⭐ CodeChef — mayank_k0309</b>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mayank_k0309">
-    <img src="https://img.shields.io/badge/CodeChef-mayank__k0309-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Rating-1518-FFA116?style=for-the-badge&logo=codechef&logoColor=white"/>
-  &nbsp;
+</p>
+
+<p align="center">
+  <b>🟢 GeeksforGeeks — mayankkute9q</b>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/mayankkute9q/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-mayankkute9q-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -139,6 +152,14 @@ I bridge the gap between intelligent algorithms and modern software — building
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankkvv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="42%" alt="Top Languages"/>
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankkvv&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
