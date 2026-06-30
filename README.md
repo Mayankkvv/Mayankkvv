@@ -126,7 +126,7 @@ I bridge the gap between intelligent algorithms and modern software — building
 <p align="center">
   <b>⭐ CodeChef — mayank_k0309</b>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mayank_k0309">
-    <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating"/>
+    <img src="https://cp-logo.vercel.app/codechef/mayank_k0309" alt="CodeChef Rating" width="320"/>
   </a>
 </p>
 
