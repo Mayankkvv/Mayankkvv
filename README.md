@@ -124,7 +124,7 @@ I bridge the gap between intelligent algorithms and modern software — building
 <br/>
 
 <p align="center">
-  <b>⭐ CodeChef — mayank_k0309</b>&nbsp;&nbsp;
+  <b>⭐⭐⭐ CodeChef — mayank_k0309</b>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mayank_k0309">
     <img src="https://img.shields.io/badge/Rating-1602-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
